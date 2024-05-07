@@ -32,11 +32,21 @@
 
 ## Input:
 
+
+![image](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/94911373/0f2cbe4e-416b-4f64-ab9a-45d7b48cff5e)
+
+
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+
+
+![image](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/94911373/4d01496f-dfc3-4a79-9814-790e7b77ed0c)
+
+### Name:   KATHIRVEL A
+### Register Number:  212221230047
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
